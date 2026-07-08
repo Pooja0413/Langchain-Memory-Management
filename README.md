@@ -1,7 +1,5 @@
 # Langchain-Memory-Management
 
-# README
-
 This Colab notebook demonstrates how to use the `langchain-groq` library with the Groq API for conversational AI tasks. It explores different approaches to managing chat history and conversation flow.
 
 ## Contents:
